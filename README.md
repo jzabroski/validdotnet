@@ -10,4 +10,4 @@
 | ThrowIfZero | Handling the zero check and throw a ArgumentException if TimeSpan.Zero | `timeSpan.ThrowIfZero()` |
 | ThrowIfNullOrWhitespace | n/a | `str.ThrowIfNullOrWhitespace()` |
 | ThrowIfLessOrEqual | n/a | `integer.ThrowIfLessOrEqual()` |
-| | n/a |
+| ThrowIfNone | n/a | `cancellationToken.ThrowIfNone()` |
